@@ -8,5 +8,5 @@ pynput==1.7.6
 pyperclip==1.8.2
 thefuzz==0.22.1
 torch==2.2.1
-transformers==4.38.1
+transformers==4.48.0
 youtube_dl==2021.12.17
